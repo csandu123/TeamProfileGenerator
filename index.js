@@ -96,7 +96,7 @@ const questions = async () => {
       } 
 
 };
-
+//function to either add a member or create the teamm
 async function promptQuestions() {
   await questions()
     
@@ -118,7 +118,7 @@ async function promptQuestions() {
 }  
 
 promptQuestions();
-
+//use fs to write file in dist folder
 function createTeam () {
   console.log("new member!", newMemberData)
   fs.writeFileSync(

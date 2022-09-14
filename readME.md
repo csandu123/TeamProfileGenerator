@@ -6,4 +6,4 @@ In order to function correctly the application does need to have npm and inquire
 
 ## Link to instructional video on application usage: https://drive.google.com/file/d/147utU7dKiwyUm2MBEY2BUnO-BFATlMnD/view?usp=sharing
 
-![](Screenshot%20(48).png)
+![Screenshot (48)](https://user-images.githubusercontent.com/107908345/190060231-c02aeb0a-f56c-41f5-aa7a-561a4d82a1d8.png)
